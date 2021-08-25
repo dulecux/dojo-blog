@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 2374,
+      "title": "duleeemef",
+      "body": "gffdghbfbhhrt hrth",
+      "tags": [
+        "css",
+        "html",
+        "vuejs"
+      ]
+    },
+    {
+      "id": 4540,
+      "title": "grhrbhbtrr",
+      "body": "hvy jyj jbyujy",
+      "tags": [
+        "python"
+      ]
+    },
+    {
+      "id": 3765,
+      "title": "Vuejs",
+      "body": "bgfhbthbth",
+      "tags": [
+        "vue",
+        "php"
+      ]
+    }
+  ]
+}
